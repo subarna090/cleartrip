@@ -1,0 +1,48 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+#toptext{
+    margin-left: 33px;
+    margin-bottom: 30px;
+}
+
+#toptext h2{
+    color:green;
+}
+
+#toptext p{
+    color:#249648;
+}
+#main{
+    padding:40px;
+    background-color: #c3c7c9;
+}
+
+#searchbar{
+    text-align: center;
+    margin-bottom: 30px;
+    max-width:500px;
+}
+
+#searchbar button{
+    font-size:12px;
+    color:green;
+}
+#pagination{
+    text-align: center;
+}
+
+#result{
+    background:#E7ECEF;
+    padding:25px;
+}
+#grey{
+    color:grey;
+    font-size: 13px;
+}
+
+#pagination{
+    margin-top: 20px;
+}
